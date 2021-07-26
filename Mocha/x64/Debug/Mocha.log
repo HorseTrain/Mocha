@@ -1,0 +1,5 @@
+﻿  CafeProcess.cpp
+  UnicornCPU.cpp
+  Generating Code...
+UnicornCPU.obj : error LNK2001: unresolved external symbol "public: virtual unsigned int __cdecl Core::UnicornCPU::GetReg(int)" (?GetReg@UnicornCPU@Core@@UEAAIH@Z)
+D:\Games\Wii U\Mocha\x64\Debug\Mocha.exe : fatal error LNK1120: 1 unresolved externals

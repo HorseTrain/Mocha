@@ -56,5 +56,8 @@
     <ClInclude Include="Core\CpuInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Core\GenericCPUInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

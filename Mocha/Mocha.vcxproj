@@ -162,6 +162,7 @@
     <ClInclude Include="Core\Core.h" />
     <ClInclude Include="Core\CpuInterface.h" />
     <ClInclude Include="Core\ELF.h" />
+    <ClInclude Include="Core\GenericCPUInterface.h" />
     <ClInclude Include="Core\Memory.h" />
     <ClInclude Include="Core\WiiUExecutable.h" />
   </ItemGroup>
